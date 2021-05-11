@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/humayunkabir/pug-webpack-plugin#readme",
   "dependencies": {
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "through2": "^4.0.2"
   },
   "devDependencies": {
     "chalk": "^4.1.1"
